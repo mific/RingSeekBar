@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RingSeekBar</string>
+    <string name="menu_fade_enable">fade affect enable</string>
+    <string name="menu_fade_disable">fade affect disable</string>
+    <string name="menu_to_zero">to zero</string>
+</resources>

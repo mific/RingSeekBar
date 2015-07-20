@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RingSeekBar">
+        <attr name="rsbStyle" format="reference"/>
+        <attr name="rsb_value" format="integer"/>
+        <attr name="rsb_maxValue" format="integer"/>
+        <attr name="rsb_minValue" format="integer"/>
+        <attr name="rsb_valueRatio" format="float"/>
+        <attr name="rsb_srcRing" format="integer"/>
+        <attr name="rsb_velocityRatio" format="float"/>
+        <attr name="rsb_flingSensitivity" format="float"/>
+        <attr name="rsb_flingDuration" format="integer"/>
+        <attr name="rsb_active" format="boolean"/>
+        <attr name="rsb_fade_in" format="boolean"/>
+        <attr name="rsb_fade_duration" format="integer"/>
+        <attr name="rsb_fade_from" format="float"/>
+        <attr name="rsb_fade_to" format="float"/>
+        <attr name="rsb_thickness" format="dimension"/>
+    </declare-styleable>
+</resources>

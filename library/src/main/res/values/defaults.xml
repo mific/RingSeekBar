@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="rsb_default_value">0</integer>
+    <integer name="rsb_default_minValue">-360</integer>
+    <integer name="rsb_default_maxValue">360</integer>
+    <item name="rsb_default_valueRatio" format="float" type="string">1.0</item>
+    <item name="rsb_default_velocityRatio" format="float" type="string">7</item>
+    <item name="rsb_default_flingSensitivity" format="float" type="string">10</item>
+    <integer name="rsb_default_flingDuration">1300</integer>
+    <bool name="rsb_default_active">true</bool>
+    <bool name="rsb_default_fade_in">true</bool>
+    <integer name="rsb_default_fade_duration">1000</integer>
+    <item name="rsb_default_fade_from" format="float" type="string">0.1</item>
+    <item name="rsb_default_fade_to" format="float" type="string">1.0</item>
+    <dimen name="rsb_default_thickness">40dp</dimen>
+</resources>

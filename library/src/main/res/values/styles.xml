@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.RingSeekBarDefaults" parent="android:Theme">
+        <item name="rsb_value">@integer/rsb_default_value</item>
+        <item name="rsb_minValue">@integer/rsb_default_minValue</item>
+        <item name="rsb_maxValue">@integer/rsb_default_maxValue</item>
+        <item name="rsb_valueRatio">@string/rsb_default_valueRatio</item>
+        <item name="rsb_velocityRatio">@string/rsb_default_velocityRatio</item>
+        <item name="rsb_flingSensitivity">@string/rsb_default_flingSensitivity</item>
+        <item name="rsb_flingDuration">@integer/rsb_default_flingDuration</item>
+        <item name="rsb_active">@bool/rsb_default_active</item>
+        <item name="rsb_fade_in">@bool/rsb_default_fade_in</item>
+        <item name="rsb_fade_duration">@integer/rsb_default_fade_duration</item>
+        <item name="rsb_fade_from">@string/rsb_default_fade_from</item>
+        <item name="rsb_fade_to">@string/rsb_default_fade_to</item>
+        <item name="rsb_thickness">@dimen/rsb_default_thickness</item>
+    </style>
+</resources>
